@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "587809351289",
+    "firebase_url": "https://bookndine-83890-default-rtdb.firebaseio.com",
+    "project_id": "bookndine-83890",
+    "storage_bucket": "bookndine-83890.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587809351289:android:a0b2a57e2db73a60fe96a8",
+        "android_client_info": {
+          "package_name": "com.flutterflow.homeU"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHHUUaic41G418xJL-PjhcaZX8ZduIGSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587809351289:android:2e649d59c4e18ba2fe96a8",
+        "android_client_info": {
+          "package_name": "com.mycompany.bookndine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHHUUaic41G418xJL-PjhcaZX8ZduIGSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
